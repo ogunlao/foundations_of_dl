@@ -1,6 +1,6 @@
 # Foundations of Deep Learning
 
-> Tutorials and classwork exploring deep learning algorithms and frameworks
+> Tutorials and classwork at AMMI exploring deep learning algorithms and frameworks
 
 This repo contains Jupyter notebooks exploring various deep learning architectures and libraries for a deep learning foundations class.
 
@@ -11,25 +11,25 @@ A good knowledge of machine learning is required. Also, most of the codes are wr
 To get a copy of the notebooks, run the following command in your terminal;
 
 ```shell
-git clone https://github.com/ogunlao/foundations_of_deeplearning
+git clone https://github.com/ogunlao/foundations_of_dl
 ```
 
-The code above fetches the `foundations_of_deeplearning` repository and saves it into your folder.
+The code above fetches the `foundations_of_dl` repository and saves it into your folder.
 
 ## What is covered
 
 - Pytorch basics
 - Convolution from scratch
-- Natural Language Processing basics
-- Auto Encoders
+- Auto-Encoders
 - Variational AutoEncoders (VAE)
 - Transfer Learning
 - TensorBoard
 - DataLoaders
 - Convolutional Neural Networks (CNN)
 - CNN Architectures (ResNet)
+- Natural Language Processing basics
 
-Most algorithms require pytorch and may require GPU for faster computation. It is advisable to run notebooks on google colab.
+Most algorithms require pytorch and may require GPU support for faster computation. It is advisable to run notebooks on google colab.
 
 ## Licensing
 
